@@ -1,4 +1,4 @@
-# sql-practice
+# SQL Practice
 A structured collection of SQL exercises and business-focused analysis designed to strengthen practical SQL skills for data analytics. 
 
 This repository documents my progression from SQL fundamentals to more advanced analytical techniques.
