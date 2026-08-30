@@ -16,7 +16,16 @@ This repository documents my progression from SQL fundamentals to more advanced 
 - String manipulation
 - Data cleaning with SQL
 - Business-oriented analytical questions
-
+# Repository Structure
+| Section | Focus | Skills |
+|---|---|---|
+| 01 Basics | SQL fundamentals | SELECT, WHERE, ORDER BY, LIMIT |
+| 02 Aggregations | Summarizing data | GROUP BY, HAVING, aggregate functions |
+| 03 Joins | Combining datasets | INNER JOIN, LEFT JOIN, multi-table joins |
+| 04 Subqueries | Nested analysis | Subqueries, correlated queries |
+| 05 CTEs | Query organization | Common Table Expressions |
+| 06 Window Functions | Advanced analysis | RANK, ROW_NUMBER, LAG, LEAD |
+| 07 Business Problems | Real-world analysis | Revenue, customers, products, performance |
 # Goal
 The goal of this repository is to develop SQL proficiency through consistent practice and increasingly realistic analytical problems.
 
